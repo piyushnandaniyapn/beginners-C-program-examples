@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
-{ float a,r;
+{ float a,s;
 printf("Enter the Radius : ");
 scanf("%f",&s);
 a=s*s;
